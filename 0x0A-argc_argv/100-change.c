@@ -33,7 +33,7 @@ int main(int argc, char *argv[])
 	cents = cents - (dimes_10 * 10);
 
 	nickels_5 = cents / 5;
-	cents = cents - (nickels_5 * 5)
+	cents = cents - (nickels_5 * 5);
 
 	coin_2 = cents / 2;
 	cents = cents - (coin_2 * 2);
