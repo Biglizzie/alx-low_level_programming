@@ -1,1 +1,1 @@
-a function that checks for uppercase character.
+a function that returns the sum of all its parameters.
